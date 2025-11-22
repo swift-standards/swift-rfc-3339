@@ -1,0 +1,24 @@
+{
+  "originHash" : "757b7a92b4ad8ab3fa169495acae2324c93ddeb531e8bc1c8ca422cce408ddf6",
+  "pins" : [
+    {
+      "identity" : "swift-memory-allocation",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/coenttb/swift-memory-allocation",
+      "state" : {
+        "revision" : "0efbfb98b4a9dbc958e7c45b4f5a5cfa29cdbcb8",
+        "version" : "0.1.0"
+      }
+    },
+    {
+      "identity" : "swift-testing-performance",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/coenttb/swift-testing-performance",
+      "state" : {
+        "revision" : "3694d3733ba9d6f8035c48fe48ab189be840da61",
+        "version" : "0.1.1"
+      }
+    }
+  ],
+  "version" : 3
+}
