@@ -1,6 +1,15 @@
 {
-  "originHash" : "757b7a92b4ad8ab3fa169495acae2324c93ddeb531e8bc1c8ca422cce408ddf6",
+  "originHash" : "8e98ee29e6293a2bef8c7faa1a06759b4f4513ed80480e0ff0f69570ce3215d6",
   "pins" : [
+    {
+      "identity" : "swift-incits-4-1986",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/swift-standards/swift-incits-4-1986",
+      "state" : {
+        "revision" : "67d496485ec35451270cefa2ada57abd76875ff2",
+        "version" : "0.2.0"
+      }
+    },
     {
       "identity" : "swift-memory-allocation",
       "kind" : "remoteSourceControl",
@@ -8,6 +17,15 @@
       "state" : {
         "revision" : "0efbfb98b4a9dbc958e7c45b4f5a5cfa29cdbcb8",
         "version" : "0.1.0"
+      }
+    },
+    {
+      "identity" : "swift-standards",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/swift-standards/swift-standards",
+      "state" : {
+        "revision" : "1812624c572ae51c505e03a29c27a30eb17c4c6f",
+        "version" : "0.2.1"
       }
     },
     {
