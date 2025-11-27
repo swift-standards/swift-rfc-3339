@@ -1,13 +1,13 @@
 {
-  "originHash" : "8e98ee29e6293a2bef8c7faa1a06759b4f4513ed80480e0ff0f69570ce3215d6",
+  "originHash" : "b23422aef521512325efb89ba602ef5661eec3468b5c7b3c0cbaacd2e26044b9",
   "pins" : [
     {
       "identity" : "swift-incits-4-1986",
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/swift-standards/swift-incits-4-1986",
       "state" : {
-        "revision" : "67d496485ec35451270cefa2ada57abd76875ff2",
-        "version" : "0.2.0"
+        "revision" : "17fcd28216139523ac0c11145df726688e1764db",
+        "version" : "0.5.0"
       }
     },
     {
@@ -24,8 +24,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/swift-standards/swift-standards",
       "state" : {
-        "revision" : "1812624c572ae51c505e03a29c27a30eb17c4c6f",
-        "version" : "0.2.1"
+        "revision" : "a0bdd4e857a9fe15e9d8742ac743ef192ddcb40a",
+        "version" : "0.6.0"
       }
     },
     {
