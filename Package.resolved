@@ -1,5 +1,5 @@
 {
-  "originHash" : "b23422aef521512325efb89ba602ef5661eec3468b5c7b3c0cbaacd2e26044b9",
+  "originHash" : "4576c7a2f4f13ccc497845366e2bed8702536b243d18f9454520fc72e3e0a467",
   "pins" : [
     {
       "identity" : "swift-incits-4-1986",
@@ -24,8 +24,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/swift-standards/swift-standards",
       "state" : {
-        "revision" : "a0bdd4e857a9fe15e9d8742ac743ef192ddcb40a",
-        "version" : "0.6.0"
+        "revision" : "fbce7e220515447ec178465ba72c3a362df43868",
+        "version" : "0.7.0"
       }
     },
     {
