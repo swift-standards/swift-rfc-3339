@@ -1,13 +1,13 @@
 {
-  "originHash" : "4576c7a2f4f13ccc497845366e2bed8702536b243d18f9454520fc72e3e0a467",
+  "originHash" : "89e57886d07ed47b96b1fcc9c9429908e4fc955c59f5bcdc285a0496aa1a6ae2",
   "pins" : [
     {
       "identity" : "swift-incits-4-1986",
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/swift-standards/swift-incits-4-1986",
       "state" : {
-        "revision" : "17fcd28216139523ac0c11145df726688e1764db",
-        "version" : "0.5.0"
+        "revision" : "115caab78c68c5e42774a92aeb1c40bd6719bfac",
+        "version" : "0.6.2"
       }
     },
     {
@@ -20,12 +20,21 @@
       }
     },
     {
+      "identity" : "swift-numerics",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/apple/swift-numerics",
+      "state" : {
+        "revision" : "0c0290ff6b24942dadb83a929ffaaa1481df04a2",
+        "version" : "1.1.1"
+      }
+    },
+    {
       "identity" : "swift-standards",
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/swift-standards/swift-standards",
       "state" : {
-        "revision" : "fbce7e220515447ec178465ba72c3a362df43868",
-        "version" : "0.7.0"
+        "revision" : "ccbf4e4c18f793bc858950d275624c1ef2a981a5",
+        "version" : "0.10.0"
       }
     },
     {
